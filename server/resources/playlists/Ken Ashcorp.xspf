@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%2020%20Percent%20Cooler.mp3</location>
+			<title>20 Percent Cooler</title>
+			<creator>Ken Ashcorp</creator>
+			<album>20 Percent Cooler</album>
+			<trackNum>20</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/20%20Percent%20Cooler/art.jpg</image>
+			<duration>192687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Absolute%20Territory.mp3</location>
+			<title>Absolute Territory</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Absolute Territory</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Absolute%20Territory/art.jpg</image>
+			<duration>268912</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Black%20Lily.mp3</location>
+			<title>Black Lily</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Black Lily</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Black%20Lily/art.jpg</image>
+			<duration>235972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Blue.mp3</location>
+			<title>Blue</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Blue</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Blue/art.jpg</image>
+			<duration>255642</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Burgz.mp3</location>
+			<title>Burgz</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Burgz</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Burgz/art.jpg</image>
+			<duration>235057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Crazy%20Chicks.mp3</location>
+			<title>Crazy Chicks</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Crazy Chicks</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Crazy%20Chicks/art.jpg</image>
+			<duration>213167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Hold%20My%20Hand.mp3</location>
+			<title>Hold My Hand</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Hold My Hand</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Hold%20My%20Hand/art.jpg</image>
+			<duration>167714</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Hunter.mp3</location>
+			<title>Hunter</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Hunter</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Hunter/art.jpg</image>
+			<duration>340540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20I&#39;m%20Your%20Slave.mp3</location>
+			<title>I&#39;m Your Slave</title>
+			<creator>Ken Ashcorp</creator>
+			<album>I&#39;m Your Slave</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/I%27m%20Your%20Slave/art.jpg</image>
+			<duration>355016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20In%20The%20Zone.mp3</location>
+			<title>In The Zone</title>
+			<creator>Ken Ashcorp</creator>
+			<album>In The Zone</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/In%20The%20Zone/art.jpg</image>
+			<duration>300886</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20I%20Wish%20There%20Were%20Still%20Dinosaurs.mp3</location>
+			<title>I Wish There Were Still Dinosaurs</title>
+			<creator>Ken Ashcorp</creator>
+			<album>I Wish There Were Still Dinosaurs</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/I%20Wish%20There%20Were%20Still%20Dinosaurs/art.jpg</image>
+			<duration>230016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Not%20One%20Less.mp3</location>
+			<title>Not One Less</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Not One Less</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Not%20One%20Less/art.jpg</image>
+			<duration>225653</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20On%20The%20Rocks.mp3</location>
+			<title>On The Rocks</title>
+			<creator>Ken Ashcorp</creator>
+			<album>On The Rocks</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/On%20The%20Rocks/art.jpg</image>
+			<duration>276827</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20PvP%20(Blizzcon%202011%20Song%20Contest%20WINNER%201st%20Place).mp3</location>
+			<title>PvP</title>
+			<creator>Ken Ashcorp</creator>
+			<album>PvP</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/PvP/art.jpg</image>
+			<duration>114581</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Rival.mp3</location>
+			<title>Rival</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Rival</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Rival/art.jpg</image>
+			<duration>270976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Ryder%20Or%20Riot.mp3</location>
+			<title>Ryder Or Riot</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Ryder Or Riot</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Ryder%20Or%20Riot/art.jpg</image>
+			<duration>257418</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Shut%20Up%20And%20Trust%20This.mp3</location>
+			<title>Shut Up and Trust This</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Shut Up and Trust This</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Shut%20Up%20and%20Trust%20This/art.jpg</image>
+			<duration>211390</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Supernatural.mp3</location>
+			<title>Supernatural</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Supernatural</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Supernatural/art.jpg</image>
+			<duration>257810</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Take%20Me%20Home.mp3</location>
+			<title>Take Me Home</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Take Me Home</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Take%20Me%20Home/art.jpg</image>
+			<duration>181402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Touch%20Fluffy%20Tail.mp3</location>
+			<title>Touch Fluffy Tail</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Touch Fluffy Tail</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Touch%20Fluffy%20Tail/art.jpg</image>
+			<duration>260422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20Wear.mp3</location>
+			<title>Wear</title>
+			<creator>Ken Ashcorp</creator>
+			<album>Wear</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/Wear/art.jpg</image>
+			<duration>323560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Ken%20Ashcorp/Ken%20Ashcorp%20-%20We&#39;re%20Shameless.mp3</location>
+			<title>We&#39;re Shameless</title>
+			<creator>Ken Ashcorp</creator>
+			<album>We&#39;re Shameless</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Ken%20Ashcorp/We%27re%20Shameless/art.jpg</image>
+			<duration>240491</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+	</extension>
+</playlist>

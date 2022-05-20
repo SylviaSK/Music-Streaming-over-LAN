@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <header>
+    <link rel="stylesheet" type="text/css" href="/resources/style.css">
+  </header>
+  <body>
+    
+      <h2>And you found my testing page!</h2>
+      <p>Congradulations! I don't know why you're doing this,</p>
+      <p>but I do relate.</p>
+      <div class ="flexWrap">
+      <a href="/">
+        <div class="playlist-container">
+          <img src="/resources/playlists/Quinne Larsen.png" alt="Avatar" class="playlist-image", align=left>
+          <div class="playlist-overlay"></div>
+          <div class="playlist-text">Quinne Larsen</div>
+        </div>
+      </a>
+      <a href="/playlist.eel valley">
+        <div class="playlist-container">
+          <img src="/resources/playlists/eel valley.png" alt="eel valley playlist image" class="playlist-image", align=left>
+          <div class="playlist-overlay"></div>
+          <div class="playlist-text">eel valley</div>
+        </div>
+      </a>
+      <a href="/playlist.stone valley">
+        <div class="playlist-container">
+          <img src="/resources/playlists/stone valley.png" alt="stone valley playlist image" class="playlist-image">
+          <div class="playlist-overlay"></div>
+          <div class="playlist-text">stone valley</div>
+        </div>
+      </a>
+      <a href="/playlist.rough demos summer '19">
+        <div class="playlist-container">
+          <img src="/resources/playlists/rough demos summer '19.png" alt="rough demos summer '19 playlist image" class="playlist-image">
+          <div class="playlist-overlay"></div>
+          <div class="playlist-text">rough demos summer '19</div>
+        </div>
+      </a>
+      <a href="/playlist.stone valley">
+        <div class="playlist-container">
+          <img src="/resources/playlists/stone valley.png" alt="stone valley playlist image" class="playlist-image">
+          <div class="playlist-overlay"></div>
+          <div class="playlist-text">stone valley</div>
+        </div>
+      </a>
+<!-- PYTHON SCRIPT MARKER-->
+    </div>
+  </body>
+</html>

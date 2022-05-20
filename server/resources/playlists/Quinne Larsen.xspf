@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/afternoon%20-%20eel%20valley.mp3</location>
+			<title>afternoon</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>94472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/cloudy%20out%20-%20eel%20valley.mp3</location>
+			<title>cloudy out</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<duration>77384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/dead%20to%20me%20(demo)%20-%20eel%20valley.mp3</location>
+			<title>dead to me</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>56040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/eel%20valley%20-%20some%20cowboy%20demos%20-%2001%20idiot%20cowboy.mp3</location>
+			<title>idiot cowboy</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>114523</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/eel%20valley%20-%20some%20cowboy%20demos%20-%2002%20canyon.mp3</location>
+			<title>canyon</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>115542</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/golden%20moon%20-%20eel%20valley.mp3</location>
+			<title>golden moon</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>129824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/hello%20hydrangea%20-%20eel%20valley.mp3</location>
+			<title>hello hydrangea</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>128024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/malibu%20-%20eel%20valley.mp3</location>
+			<title>malibu</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>61412</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/no%20hard%20feelings%20-%20eel%20valley.mp3</location>
+			<title>no hard feelings</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>175664</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/oh%20no%20-%20eel%20valley.mp3</location>
+			<title>oh no</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.png</image>
+			<duration>125000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2001%20houses.mp3</location>
+			<title>houses</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>49897</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2002%20crop%20circles.mp3</location>
+			<title>crop circles</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>117292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2003%20darkest%20deepest.mp3</location>
+			<title>darkest deepest</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>127924</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2004%20golden%20moon.mp3</location>
+			<title>golden moon (demo)</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>88688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2005%20summertime%20city.mp3</location>
+			<title>summertime city</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>51751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2006%20snakebite.mp3</location>
+			<title>snakebite</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>60999</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2007%20iowa%20&#39;98.mp3</location>
+			<title>iowa &#39;98</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>93835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2008%20bad%20luck.mp3</location>
+			<title>bad luck</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.png</image>
+			<duration>31454</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/the%20friend%20song%20(2020)%20-%20eel%20valley.mp3</location>
+			<title>the friend song (2020)</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<duration>123045</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/the%20friend%20song%20-%20big%20girl%20party.mp3</location>
+			<title>the friend song</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>125369</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2001%20houses.mp3</location>
+			<title>houses</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>49897</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2002%20crop%20circles.mp3</location>
+			<title>crop circles</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>117292</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2003%20darkest%20deepest.mp3</location>
+			<title>darkest deepest</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>127924</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2004%20golden%20moon.mp3</location>
+			<title>golden moon (demo)</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>88688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2005%20summertime%20city.mp3</location>
+			<title>summertime city</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>5</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>51751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2006%20snakebite.mp3</location>
+			<title>snakebite</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>6</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>60999</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2007%20iowa%20&#39;98.mp3</location>
+			<title>iowa &#39;98</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>7</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>93835</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/rough%20demos%20summer%20&#39;19%20-%2008%20bad%20luck.mp3</location>
+			<title>bad luck</title>
+			<creator>Quinne Larsen</creator>
+			<album>eel valley</album>
+			<trackNum>8</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/eel%20valley/art.jpg</image>
+			<duration>31454</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/emerant%20nox%20-%20stone%20valley.mp3</location>
+			<title>emerant nox</title>
+			<creator>Quinne Larsen</creator>
+			<album>stone valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/stone%20valley/art.jpg</image>
+			<duration>125056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/stone%20valley%20-%20prologue.mp3</location>
+			<title>prologue</title>
+			<creator>Quinne Larsen</creator>
+			<album>stone valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<duration>115052</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/traveler%20(ep)%20-%20stone%20valley.mp3</location>
+			<title>traveler (ep) - stone valley</title>
+			<creator>Quinne Larsen</creator>
+			<album>stone valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/stone%20valley/art.jpg</image>
+			<duration>640016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/a%20twelve%20foot%20home%20depot%20skeleton%20-%20kitsch%20club-xa_URsljJNo.mp3</location>
+			<title>A 12 Foot Home Depot Skeleton</title>
+			<creator>Quinne Larsen//Louie Zong</creator>
+			<album>A 12 Foot Home Depot Skeleton</album>
+			<trackNum>1</trackNum>
+			<duration>101782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/burn%20him%20down%20-%20kitsch%20club.mp3</location>
+			<title>burn him down</title>
+			<creator>Quinne Larsen//Louie Zong</creator>
+			<album>burn him down</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen__Louie%20Zong/burn%20him%20down/art.jpg</image>
+			<duration>111472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/eel%20valley%20-%20ruins%20-%2001%20dead%20to%20me.flac</location>
+			<title>dead to me</title>
+			<creator>eel valley</creator>
+			<album>ruins</album>
+			<trackNum>1</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>attachment://picture0.jpg</image>
+			<duration>120000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/eel%20valley%20-%20ruins%20-%2002%20crater.flac</location>
+			<title>crater</title>
+			<creator>eel valley</creator>
+			<album>ruins</album>
+			<trackNum>2</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>attachment://picture0.jpg</image>
+			<duration>138537</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/eel%20valley%20-%20ruins%20-%2003%20the%20lake.flac</location>
+			<title>the lake</title>
+			<creator>eel valley</creator>
+			<album>ruins</album>
+			<trackNum>3</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>attachment://picture0.jpg</image>
+			<duration>171448</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/eel%20valley%20-%20ruins%20-%2004%20flowers.flac</location>
+			<title>flowers</title>
+			<creator>eel valley</creator>
+			<album>ruins</album>
+			<trackNum>4</trackNum>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>attachment://picture0.jpg</image>
+			<duration>74500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+	</extension>
+</playlist>

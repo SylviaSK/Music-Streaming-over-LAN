@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/I%20Am%20Become%20Christmas/Aurora%20Borealis.mp3</location>
+			<title>Aurora Borealis</title>
+			<creator>Lemon Demon</creator>
+			<album>I Am Become Christmas EP</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/I%20Am%20Become%20Christmas%20EP/art.jpg</image>
+			<duration>200811</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/I%20Am%20Become%20Christmas/Christmas%20Will%20Be%20Soon.mp3</location>
+			<title>Christmas Will Be Soon</title>
+			<creator>Lemon Demon</creator>
+			<album>I Am Become Christmas EP</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/I%20Am%20Become%20Christmas%20EP/art.jpg</image>
+			<duration>252194</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/I%20Am%20Become%20Christmas/CryptoSanta.mp3</location>
+			<title>CryptoSanta</title>
+			<creator>Lemon Demon</creator>
+			<album>I Am Become Christmas EP</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/I%20Am%20Become%20Christmas%20EP/art.jpg</image>
+			<duration>217634</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/I%20Am%20Become%20Christmas/Prelude%20to%20Presents.mp3</location>
+			<title>Prelude to Presents</title>
+			<creator>Lemon Demon</creator>
+			<album>I Am Become Christmas EP</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/I%20Am%20Become%20Christmas%20EP/art.jpg</image>
+			<duration>58731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/I%20Am%20Become%20Christmas/Sad.mp3</location>
+			<title>Sad</title>
+			<creator>Lemon Demon</creator>
+			<album>I Am Become Christmas EP</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/I%20Am%20Become%20Christmas%20EP/art.jpg</image>
+			<duration>257627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

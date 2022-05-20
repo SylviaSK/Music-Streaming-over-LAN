@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/320x200.mp3</location>
+			<title>320x200</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>17</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>114920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Amnesia%20Was%20Her%20Name.mp3</location>
+			<title>Amnesia Was Her Name</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>243521</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Ask%20For%20Nothing.mp3</location>
+			<title>Ask For Nothing</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>23</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>173826</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Being%20a%20Rock%20Star.mp3</location>
+			<title>Being a Rock Star</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>136680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Ben%20Bernanke.mp3</location>
+			<title>Ben Bernanke</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>269069</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Bill%20Watterson.mp3</location>
+			<title>Bill Watterson</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>29</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>230878</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Drinky-bird.mp3</location>
+			<title>Drinky-bird</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>133180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Gadzooks.mp3</location>
+			<title>Gadzooks</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>159511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Kaleidoskull.mp3</location>
+			<title>Kaleidoskull</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>166564</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Knife%20Fight.mp3</location>
+			<title>Knife Fight</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>259064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Marketland.mp3</location>
+			<title>Marketland</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>277558</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Modify.mp3</location>
+			<title>Modify</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>20</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>177823</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Nightmare%20Fuel.mp3</location>
+			<title>Nightmare Fuel</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>21</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>107998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Something%20Glowing.mp3</location>
+			<title>Something Glowing</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>16</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>255119</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Spring%20Heeled%20Jack.mp3</location>
+			<title>Spring Heeled Jack</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>19</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>135687</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/Sundial.mp3</location>
+			<title>Sundial</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>22</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>247674</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Afternoon.mp3</location>
+			<title>Afternoon. Afternoon.</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<annotation> </annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>204128</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Machine.mp3</location>
+			<title>Machine Machine</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>251880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Man%20In%20Stripes%20and%20Glasses.mp3</location>
+			<title>The Man In Stripes and Glasses</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>159903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Ocean.mp3</location>
+			<title>The Ocean</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>15</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>212278</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Only%20House%20That&#39;s%20Not%20On%20Fire%20(Yet).mp3</location>
+			<title>The Only House That&#39;s Not On Fire (Yet)</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>13</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>294904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Satirist&#39;s%20Love%20Song.mp3</location>
+			<title>The Satirist&#39;s Love Song</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>25</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>129993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Lemon%20Demon/View-Monster/The%20Wiggles%20Hate%20Each%20Other%20In%20Real%20Life.mp3</location>
+			<title>The Wiggles Hate Each Other In Real Life</title>
+			<creator>Lemon Demon</creator>
+			<album>View-Monster</album>
+			<trackNum>23</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Lemon%20Demon/View-Monster/art.jpg</image>
+			<duration>118290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+	</extension>
+</playlist>

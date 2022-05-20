@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Additional%20Memory%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a2%23U30c7%23U30a3%23U30b7%23U30e7%23U30ca%23U30eb%23U30e1%23U30e2%23U30ea%23U30fc-2MdItMhbz_Y.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>264465</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/A%20Female%20Ninja,%20But%20I%20Want%20To%20Love%20(English%20Cover)%23U3010rachie%20+%20JubyPhonic%23U3011%23U30af%23U30ce%23U30a4%23U30c1%23U3067%23U3082%23U604b%23U304c%23U3057%23U305f%23U3044-dPw-0vctJJQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>253188</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/A%20Happy%20Death%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5e78%23U798f%23U306a%23U6b7b%23U3092-EX_SyIE4rl0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>310402</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ai%20no%20Scenario%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a2%23U30a4%23U30ce%23U30b7%23U30ca%23U30ea%23U30aa-eeh-P6IQyek.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>274112</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Aishite%20Aishite%20Aishite%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U611b%23U3057%23U3066%23U611b%23U3057%23U3066%23U611b%23U3057%23U3066-UlmtKmI3TaE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>276105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/America%20~We%20Are%20Alright!~%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a2%23U30e1%23U30ea%23U30ab-iruAFk5staw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>271734</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ano%20Ko%20Secret%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3042%23U306e%23U5a18%23U30b7%23U30fc%23U30af%23U30ec%23U30c3%23U30c8-YDc8xGDVJ4A.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>254096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/A%20Realistic%20Logical%20Ideologist%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U73fe%23U5b9f%23U7684%23U8ad6%23U7406%23U4e3b%23U7fa9%23U8005-A-eMXWAzUlg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>270193</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Asymmetry%20(English%20Cover)%20-%20Fan%20PV%20-%23U3010JubyPhonic%23U3011%23U30a2%23U30b7%23U30f3%23U30e1%23U30c8%23U30ea%23U30fc-dPERrSLISiI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>252822</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/As%20You%20Like%20It%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U304a%23U6c17%23U306b%23U53ec%23U3059%23U307e%23U307e-pWutRSdPxU0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>270297</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ayano&#39;s%20Theory%20of%20Happiness%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a2%23U30e4%23U30ce%23U306e%23U5e78%23U798f%23U7406%23U8ad6-Hll18UugDTE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>333751</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Black%20Christmas%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30d6%23U30e9%23U30c3%23U30af%23U30af%23U30ea%23U30b9%23U30de%23U30b9-D3Edy0KdBUI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>288993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Blindfold%20Code%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30e1%23U30ab%23U30af%23U30b7%23U30b3%23U30fc%23U30c9-pyiG_AM6JBQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>230120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Bloom%20and%20Cry,%20Roaring%20Flower%20-Overidea-%20(English%20Ver.)%23U3010JubyPhonic%23U3011%23U54b2%23U3044%23U3066%23U9cf4%23U3044%23U3066%23U3001%23U8f5f%23U306e%23U83ef-paYGk-CxRxM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>309752</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Butterfly%20On%20Your%20Right%20Shoulder%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U53f3%23U80a9%23U306e%23U8776-R_NlNqOHFN4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>248769</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/CANDY%20CANDY%23U300aCircus-P%20Trance%20Remix%23U300b(English%20Cover)%23U3010JubyPhonic%23U3011-SdRYrIIa-1I.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>287505</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Can&#39;t%20I%20Even%20Dream%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5922%23U898b%23U3066%23U3082%23U3044%23U3044%23U3058%23U3083%23U306a%23U3044%23U306e-_17LG_ha4lc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>169881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Charles%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b7%23U30e3%23U30eb%23U30eb--vOGY-XnTfM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>250399</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Childish%20War%20(English%20Cover)%23U3010rachie%20VS%20JubyPhonic%23U3011%23U304a%23U3053%23U3061%23U3083%23U307e%23U6226%23U4e89-sgAqRnSP7sQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>213151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Chiruchiru%20-%20%23Uff32%23Uff25%23Uff30%23Uff2c%23Uff39%20-%20%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3061%23U308b%23U3061%23U308b%23U300c%23U8fd4%23U4e8b%23U300d-uAHQArBynEo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>218601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Circles%20(Cover)%23U3010JubyPhonic%23U3011-oUWvVmJEWLo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>282055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Clean%20Freak%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b1%23U30c3%23U30da%23U30ad%23U30b7%23U30e7%23U30a6-HaNvzj6H8RA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>221267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/cLick%20cRack%20(English%20Cover)%20%23U3010unholy%20quartet%20feat.%20hatsune%20miku%23U3011-mcElbtnn3eI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>271472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Common%20World%20Domination%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3042%23U308a%23U3075%23U308c%23U305f%23U305b%23U304b%23U3044%23U305b%23U3044%23U3075%23U304f-DF8QJXdAxpc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>204824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Confession%20Rehearsal%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U544a%23U767d%23U4e88%23U884c%23U7df4%23U7fd2-IVQ3xAxBLgk.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>160064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Copycat%20(Cover)%23U3010JubyPhonic%23U3011-QGjA23kXsCU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>310134</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Cruel%20Clocks%20(English%20Cover)%23U3010JubyPhonic%23U3011-n_l-oq8UU44.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>280406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Dark%20Woods%20Circus%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U6697%23U3044%23U68ee%23U306e%23U30b5%23U30fc%23U30ab%23U30b9-hbkn9-avz34.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>262353</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Daughter%20of%20Evil%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U60aa%23U30ce%23U5a18-uPTk6ogsazE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>293911</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Death%20Should%20Not%20Have%20Taken%20Thee!%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3057%23U3093%23U3067%23U3057%23U307e%23U3046%23U3068%23U306f%23U306a%23U3055%23U3051%23U306a%23U3044%23Uff01-vTwyaIo9ADk.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>250184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Diagnosis%20-%20Love%20Sickness%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U75c5%23U540d%23U604b%23U30ef%23U30ba%23U30e9%23U30a4-wDO77HDa7PQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>279177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Donor%20Song%20(English%20Cover%20)%23U3010JubyPhonic%23U3011%23U30c9%23U30ca%23U30fc%23U30bd%23U30f3%23U30b0-gLJuiQUtdTA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>248000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Dramaturgy%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30c9%23U30e9%23U30de%23U30c4%23U30eb%23U30ae%23U30fc-od8YbI9NJ2E.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>269462</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Dream%20-%20CircusP%20(Juby%20Version)%23U3010JubyPhonic%23U3011-_rQuLhobPNc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>241089</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Dreamless%20Dreams%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30c9%23U30ea%23U30fc%23U30e0%23U30ec%23U30b9%23U30fb%23U30c9%23U30ea%23U30fc%23U30e0%23U30b9-ydDv1UkWSFQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>246489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/drop%20pop%20candy%20(English%20Cover)%20%23U3010Kuraiinu%20+%20JubyPhonic%23U3011-UwdiUeH1RdA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>228464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Echo%20(Cover)%23U3010JubyPhonic%23U3011-gAKQ13m452o.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>234416</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Eight%20Hundred%20(Piano%20+%20English%20Cover)%23U3010JubyPhonic%23U3011-06O0kxjVN40.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>286906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Abstract%20Nonsense%20%23U30a2%23U30d6%23U30b9%23U30c8%23U30e9%23U30af%23U30c8%23U30fb%23U30ca%23U30f3%23U30bb%23U30f3%23U30b9-YGr9sH86URc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>234224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Answer%20%23U30a2%23U30f3%23U30b5%23U30fc-UQTsWnXaQq0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>233241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011CANDY%20CANDY%20%23U304d%23U3083%23U308a%23U30fc%23U3081%23U3050%23U3081%23U3050-pcETctLzHHA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>227865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Children%20Record%20%23U30c1%23U30eb%23U30c9%23U30ec%23U30f3%23U30ec%23U30b3%23U30fc%23U30c9-P-KcCvabjd0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>185060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Headphone%20Actor%20%23U30d8%23U30c3%23U30c9%23U30d5%23U30a9%23U30f3%23U30a2%23U30af%23U30bf%23U30fc-i1LLTTRCBWs.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>215703</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Hide%20And%20Seek%20%23Uc228%23Ubc14%23Uaf2d%23Uc9c8-caAGyHayvaY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>151712</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Imagination%20Forest%20%23U60f3%23U50cf%23U30d5%23U30a9%23U30ec%23U30b9%23U30c8-MN9DNB8IwV0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>252777</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Jitter%20Doll%20(Ritsu%20Inspired%20ver.)-AsQ3jHG4K30.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>235951</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Kagerou%20Days%20%23U30ab%23U30b2%23U30ed%23U30a6%23U30c7%23U30a4%23U30ba-MU-rdG-M5Ho.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>240781</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Kisaragi%20Attention%20%23U5982%23U6708%23U30a2%23U30c6%23U30f3%23U30b7%23U30e7%23U30f3-LiNZz3a0SO4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>246273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Konoha%20no%20Sekai%20Jijou%20%23U30b3%23U30ce%23U30cf%23U306e%23U4e16%23U754c%23U4e8b%23U60c5-fhBWZKCr29o.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>181976</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Lynne%20%23U30ea%23U30f3%23U30cd-SKeNFihx-D4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>275549</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Matryoshka%20%23U30de%23U30c8%23U30ea%23U30e7%23U30b7%23U30ab-8KUOBt2MPaE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>200241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Meltdown%20%23U7089%23U5fc3%23U878d%23U89e3-vSYgc4ahxD4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>332338</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011ODDS%20&amp;%20ENDS%20(Short)-Pi6QB5jhOH0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>155125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Our%20Let-It-Be%20%23U307c%23U304f%23U3089%23U306e%23U30ec%23U30c3%23U30c8%23U30a4%23U30c3%23U30c8%23U30d3%23U30fc-l36TTAKsa8w.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>285393</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Perfectionist%20Complex%20%23U5b8c%23U5168%23U6027%23U30b3%23U30f3%23U30d7%23U30ec%23U30c3%23U30af%23U30b9-nbnY4cCebog.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>232064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Shinigami%20Record%20%23U30b7%23U30cb%23U30ac%23U30df%20%23U30ea%23U30b3%23U30eb%23U30c9-s5NS9Z70WPI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>179241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Shotgun%23U30fbLovers%20(Ritsu%20Inspired%20Ver.)-cSFU2MtProg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>221505</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Six%20Trillion%20Years%20and%20Overnight%20Story%20%23U516d%23U5146%23U5e74%23U3068%23U4e00%23U591c%23U7269%23U8a9e-DjVDqM8aw54.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>220639</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Summer&#39;s%20End,%20Love&#39;s%20Beginning%20%23U590f%23U306e%23U7d42%23U308f%23U308a%23U3001%23U604b%23U306e%23U59cb%23U307e%23U308a-STRxwnsBktA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>248575</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Super%20Hero%20%23U30b9%23U30fc%23U30d1%23U30fc%23U30d2%23U30fc%23U30ed%23U30fc-3vMLvKd3N6Y.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>225440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U3011Toumei%20Answer%20%23U900f%23U660e%23U30a2%23U30f3%23U30b5%23U30fc-kaEoYlz5s_w.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>255200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%20Cover%23U3010JubyPhonic%23U301139%20(San-kyuu)-23wQmR0SxR8.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>218994</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%23U3010JubyPhonic%23U3011Hirari,%20Hirari%20%23U3072%23U3089%23U308a%23U3001%23U3072%23U3089%23U308a-bpv8JW4EseU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>210681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/English%23U3010JubyPhonic%23U3011Whatever!%20%23U3069%23U3046%23U3067%23U3082%23U3044%23U3044%23Uff01-HVQieAQ_zDY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>178088</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Expus%20-%20Plan%20On%20Coming%20Home%20(ft.%20JubyPhonic)%20(OFFICIAL%20PV)-RQZYbg2Mik4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>236216</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Eye%20Examination%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b7%23U30ea%23U30e7%23U30af%23U30b1%23U30f3%23U30b5-5mS_Q9KXApQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>295114</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Failure%20Girl%20-%20%23L01d5a4%23L01d5a3%23L01d5ac%20%23L01d5a0%23L01d5b1%23L01d5b1%23L01d5a0%23L01d5ad%23L01d5a6%23L01d5a4%20-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5931%23U6557%23U4f5c%23U5c11%23U5973-Myh3uW8KhAw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>199139</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Fighter%20(Cover)%23U3010JubyPhonic%23U3011-WarnWRK6zGY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>217016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ghost%20Rule%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b4%23U30fc%23U30b9%23U30c8%23U30eb%23U30fc%23U30eb-mQrXFbwi-gY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>232132</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Happy%20Halloween%20(English%20Cover)%23U3010JubyPhonic%23U3011-uLbdoF33NQQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>267489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hello,%20Again%20(Cover)%23U3010JubyPhonic%23U3011-gOTa6jvfarY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>274809</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hello,%20Worker%20(English%20Cover)%23U3010JubyPhonic%23U3011-rGi6R_6yZMo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>253305</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hibikase%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30d2%23U30d3%23U30ab%23U30bb-dgRSiBHdUIM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>255695</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hide%20and%20Seek%20(English%20Cover)%20Piano%20Ver.%23U3010JubyPhonic%23U3011%23Uc228%23Ubc14%23Uaf2d%23Uc9c8-tpwjZu7hS5k.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>156130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hikari%20Yo%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5149%23U3088-_eeE5RSlxu4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>279180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hinekure%20Neji%20To%20Ame%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3072%23U306d%23U304f%23U308c%23U30cd%23U30b8%23U3068%23U96e8--a_FziMENGA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>301496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hitorinbo%20Envy%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U72ec%23U308a%23U3093%23U307c%23U30a8%23U30f3%23U30f4%23U30a3%23U30fc-HJ6-K3uxUEg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>232892</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Hitorinbo%20Envy%20-%20%23U1d00%23U1d04%23U1d0f%23U1d1c%23Ua731%23U1d1b%23U026a%23U1d04%20%23U1d00%23U0280%23U0280%23U1d00%23U0274%23U0262%23U1d07-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U72ec%23U308a%23U3093%23U307c%23U30a8%23U30f3%23U30f4%23U30a3%23U30fc-Y2yAyDSDgEc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>212936</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Houkago%20Stride%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U653e%23U8ab2%23U5f8c%23U30b9%23U30c8%23U30e9%23U30a4%23U30c9-iQDebbxXLuE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>230049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/H%23U00e4agen-Dazs%20Ika%20no%20Sappuukei%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30cf%23U30fc%23U30b2%23U30f3%23U30c0%23U30c3%23U30c4%23U4ee5%23U4e0b%23U306e%23U6bba%23U98a8%23U666f-K2tdoNKuUX0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>265184</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/I%20Don&#39;t%20Care%20Who,%20Somebody%20Go%20Out%20With%20Me!%20(English%20Cover)%23U3010JubyPhonic%23U3011-QEhW7eQAKFU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>69024</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/I%20Don%23U2019t%20Wanna%20Know%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3057%23U308a%23U305f%23U304f%23U306a%23U3044-f-Vg4DHeqfw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>255750</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ikanaide%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3044%23U304b%23U306a%23U3044%23U3067-fSCwqCsSK1g.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>199832</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ikanaide%20-Piano%20Ver-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3044%23U304b%23U306a%23U3044%23U3067-XTfATRNbw5w.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>258658</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Inokori%20Sensei%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a4%23U30ce%23U30b3%23U30ea%23U5148%23U751f-Vjq2w8WckZA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>312905</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Itte%20(English%20Cover)%20Acoustic%20Ver%23U3010JubyPhonic%23U3011%23U8a00%23U3063%23U3066%23U3002-of1N3x0YPIw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>286904</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Izayoi%20Seeing%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5341%23U516d%23U591c%23U30b7%23U30fc%23U30a4%23U30f3%23U30b0-msA0bCASJD4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>234056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Jingle%20Bells%20-GigaP%20Arrange-%20(English%20Cover)%23U3010Unholy%20Quartet%23U3011%23U30b8%23U30f3%23U30b0%23U30eb%23U30d9%23U30eb-4CBoboiNwPo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>284384</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Jinsei%20Reset%20Button%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U4eba%23U751f%23U30ea%23U30bb%23U30c3%23U30c8%23U30dc%23U30bf%23U30f3-0BEVidIfBYg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>252273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Jitter%20Doll%20-%23U0280%23U1d07%23U1d20%23U1d07%23U0274%23U0262%23U1d07-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b8%23U30c3%23U30bf%23U30fc%23U30c9%23U30fc%23U30eb-SSEVBUTXDTQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>259401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Kagerou%20Days%20%5BPiano%20Outtake%5D%20(English%20Cover%20)%23U3010JubyPhonic%23U3011%23U30ab%23U30b2%23U30ed%23U30a6%23U30c7%23U30a4%23U30ba-ZBXZ7oGu6xU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>235880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Kami%20no%20Manimani%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U795e%23U306e%23U307e%23U306b%23U307e%23U306b-2tV9Dz1e4HQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>255511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Karma%20-%20CircusP%20ft.%20Eyeris%20(Cover)%23U3010JubyPhonic%23U3011-SKUqXM7M9xo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>258225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Kimagure%20Mercy%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U6c17%23U307e%23U3050%23U308c%23U30e1%23U30eb%23U30b7%23U30a3-b5AyKkkjvGc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>216041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Kimi%20no%20Taion%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U541b%23U306e%23U4f53%23U6e29-r3dIs24XXJA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>267896</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Kisaragi%20Attention%20%5BGuitar%20Outtake%5D%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5982%23U6708%23U30a2%23U30c6%23U30f3%23U30b7%23U30e7%23U30f3-L__6auPtdb4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>244499</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Kokoronashi%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5fc3%23U505a%23U3057-xM-6fHqXvig.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>268856</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lie%20%23U2726%20by%20Circus%20P%20%23U2726%20(Cover)%23U3010JubyPhonic%23U3011-GPPoJ6FaLM4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>209851</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lonely%20Hide%20&amp;%20Seek%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5b64%23U72ec%23U30ce%23U96a0%23U30ec%23U30f3%23U30dc-t-RwDK60tpI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>228632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lost%20One&#39;s%20Weeping%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ed%23U30b9%23U30c8%23U30ef%23U30f3%23U306e%23U53f7%23U54ed-nZHXSN6lEEw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>217975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lost%20One&#39;s%20Weeping%20(English%20+%20Piano%20Cover)%23U3010JubyPhonic%23U3011%23U30ed%23U30b9%23U30c8%23U30ef%23U30f3%23U306e%23U53f7%23U54ed%23U3000%23U301c%23U30d4%23U30a2%23U30ce%23U301c-UoZPASj-k0s.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>234249</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lost%20Time%20Memory%20%5BClassical%20Rock%20Arr.%5D%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ed%23U30b9%23U30bf%23U30a4%23U30e0%23U30e1%23U30e2%23U30ea%23U30fc-LKrP_fu4m0s.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>329745</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lost%20Time%20Memory%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ed%23U30b9%23U30bf%23U30a4%23U30e0%23U30e1%23U30e2%23U30ea%23U30fc-ddfnnOnO08s.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>283328</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Love%20For%20Love%20By%20Love%20Of%20Love%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U604b%23U306e%23U604b%23U306b%23U3088%23U308b%23U604b%23U306e%23U305f%23U3081%23U306e%23U604b-1H4ZtBnGyMY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>255800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Lovesongs%20(Cover)%23U3010JubyPhonic%23U3011-UcfagJXmqdY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>275576</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Love%20Trial%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U604b%23U611b%23U88c1%23U5224-68wFpO8oeM4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>245144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Luka%20Luka%20%23U2605%20Night%20Fever%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30eb%23U30ab%23U30eb%23U30ab%23U2605%23U30ca%23U30a4%23U30c8%23U30d5%23U30a3%23U30fc%23U30d0%23U30fc-F2J5ASM2IkM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>263601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/LUVORATORRRRRY!%20(English%20Cover)%23U3010rachie%20+%20JubyPhonic%23U3011-pVXWJNXHzjU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>207316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/MACARON%20(English%20Cover)%23U3010JubyPhonic%23U3011-2ioZCjXz_Yg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>198056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Madamamagoto%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30de%23U30c0%23U30de%23U30de%23U30b4%23U30c8-Myo0U3otGDQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>186872</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/magnet%20-%23U1d1b%23U0280%23U1d00s%23U029c%20%23U1d20%23U1d07%23U0280.-%20(English%20Cover)%23U3010JubyPhonic%23U2661%20rachie%23U3011-G0Af6nQ90uQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>238256</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Matryoshka%20-Club%20Mix-%20(English%20Cover)%23U3010JubyPhonic%20+%20rachie%23U3011%23U30de%23U30c8%23U30ea%23U30e7%23U30b7%23U30ab-UqLBxAn6XP4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>225706</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Mind%20Brand%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30de%23U30a4%23U30f3%23U30c9%23U30d6%23U30e9%23U30f3%23U30c9-ioS-3wCGu-g.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>283784</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/MIRA%20(English%20Cover)%23U3010JubyPhonic%23U3011-_iAphP5zfNs.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>136255</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Mischievous%20Function%20-Jazz%20Ver-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U304a%23U3061%23U3083%23U3081%23U6a5f%23U80fd-kvgllZ3G6kw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>316017</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Mischievous%20Function%20(Lazy%20English%20Cover)%23U3010JubyPhonic%23U3011%23U304a%23U3061%23U3083%23U3081%23U6a5f%23U80fd-xMQXwNNM9Eo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>91016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Nerve%20Impulse%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ca%23U30fc%23U30f4%23U30fb%23U30a4%23U30f3%23U30d1%23U30eb%23U30b9-vj6BPfKsCeg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>283281</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Never%20Lost%20Word%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5931%23U60f3%23U30ef%23U30a2%23U30c9-w_FjPxJF0oc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>316833</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ningen%20Datta%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U4eba%23U9593%23U3060%23U3063%23U305f-jmQ1g-3ZfrY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>273513</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ninjari%20Bang%20Bang%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U306b%23U3093%23U3058%23U3083%23U308a%23U3070%23U3093%23U3070%23U3093-RcdIxIRcLMw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>257049</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Nonsense%20Speaker%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U622f%23U8a00%23U30b9%23U30d4%23U30fc%23U30ab%23U30fc-l9ikCkaFRTI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>273153</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Odds&amp;Ends%20(English%20ver%20by%20JubyPhonicP)--MiFRF9DrFI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>217880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/ODDS&amp;ENDS%20-Orchestral%20Ver-%20(English%20Cover)%23U3010JubyPhonic%23U3011-R-AsOnpRNjM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>370186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Onomatopoeia%20Megane%20-Acoustic%20Ver-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30aa%23U30ce%23U30de%23U30c8%23U30da%23U30e1%23U30ac%23U30cd-VNeHomDmZLc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>245096</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Otome%20Kaibou%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U4e59%23U5973%23U89e3%23U5256-hIOIa4k_tgE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>246728</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Otsukimi%20Recital%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30aa%23U30c4%23U30ad%23U30df%23U30ea%23U30b5%23U30a4%23U30bf%23U30eb-gumQsN28UgU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>225993</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Outer%20Science%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a2%23U30a6%23U30bf%23U30fc%23U30b5%23U30a4%23U30a8%23U30f3%23U30b9--PgOrF3zD7o.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>216486</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Pale%20(English%20Cover)%23U3010JubyPhonic%23U3011-LLIixUkxXlI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>156008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Palmtop%20Wonderland%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U3066%23U306e%23U3072%23U3089%23U30ef%23U30f3%23U30c0%23U30fc%23U30e9%23U30f3%23U30c9-WZ4ZYsFHgT0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>237225</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Patchwork%20Staccato%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30c4%23U30ae%23U30cf%23U30ae%23U30b9%23U30bf%23U30c3%23U30ab%23U30fc%23U30c8-elC2uKfEKbg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>273489</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Pa%23U2162.SENSATION%20(English%20Cover)%23U3010JubyPhonic%23U3011-3Yuf0oLRnaU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>257193</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/People%20Allergy%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30d2%23U30c8%23U30b5%23U30de%23U30a2%23U30ec%23U30eb%23U30ae%23U30fc-qnc9WR7bg2o.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>225314</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/PONPONPON%20(English%20Cover)%23U3010JubyPhonic%23U3011-1xu95Nh_Nl0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>242577</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ready%20Steady%20(English%20Cover)%23U3010Jubyphonic+rachie+Anthong%23U3011-wdXHYQp-ufY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>210582</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Reboot%20(English%20Cover)%23U3010JubyPhonic%23U3011-gKh-P6jGwBw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>271663</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Remote%20Control%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ea%23U30e2%23U30b3%23U30f3-tjhBHvzO3fM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>316038</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Rettou%20Joutou%20(BRING%20IT%20ON)%20-Magical%20Mirai%202018-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U52a3%23U7b49%23U4e0a%23U7b49-Z9vmC5OPCTQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>258464</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Rolling%20Girl%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ed%23U30fc%23U30ea%23U30f3%23U30ac%23U30fc%23U30eb-t14KV5qf-Hc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>200055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Romeo%20&amp;%20Cinderella%20%23U2661%20Mirishira%20%23U2661%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30df%23U30ea%23U3057%23U3089-WYlJQ0CNagY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>276801</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Romeo%20&amp;%20Cinderella%20%23U2661%20Original%20%23U2661%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ed%23U30df%23U30aa%23U3068%23U30b7%23U30f3%23U30c7%23U30ec%23U30e9-8vDymzSBx8I.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>281844</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Sand%20Planet%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U7802%23U306e%23U60d1%23U661f-MOrwW6avyGU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>262377</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Sand%20Planet%20-MA%20Remix-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U7802%23U306e%23U60d1%23U661f-f-4olQU-YBo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>266144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Sayoko%20-Acoustic-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5c0f%23U591c%23U5b50-qHpzKJvLXXM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>296580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Sayoko%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5c0f%23U591c%23U5b50-G7WLTNWh_KI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>249200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Self-Inflicted%20Achromatic%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U81ea%23U50b7%23U7121%23U8272-6eh39VWPIj4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>242313</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Setsuna%20Drive%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30bb%23U30c4%23U30ca%23U30c9%23U30e9%23U30a4%23U30d6-llFUzxVO_kA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>228346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Setsuna%20Plus%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5239%23U90a3%23U30d7%23U30e9%23U30b9-e5hhzYmgCNs.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>249249</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/shake%20it!%20(English%20Cover)%23U3010JubyPhonic%23U3011-MbVY2K1V6vk.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>255043</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Shinitai-chan%20%23U2736%23L01d411%23L01d404%23L01d40c%23L01d408%23L01d417%23U2736%20(English%20Cover)%20%23U3010JubyPhonic%23U3011%20%23U30b7%23U30cb%23U30bf%23U30a4%23U3061%23U3083%23U3093-6NxvnyZdD78.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>203648</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Shoujo%20Fuzei%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5c11%23U5973%23U3075%23U305c%23U3090-3gisq00RbQ4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>267032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Shounen%20Brave%20(English%20Cover)%23U3010JubyPhonic%20ft.%20dj-Jo%23U3011%23U5c11%23U5e74%23U30d6%23U30ec%23U30a4%23U30d6--8eh8U5H7i0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>275072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Spice!%20(English%20Cover)%23U3010JubyPhonic%23U3011-zrQ1Ms5xPeo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>220928</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Sugarvine%20-REDSHiFT%20Remix-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b7%23U30e5%23U30ac%23U30fc%23U30d0%23U30a4%23U30f3-MIwLiMkMXlQ.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>254601</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Summertime%20Record%20%5BPiano%20Medley%5D%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b5%23U30de%23U30fc%23U30bf%23U30a4%23U30e0%23U30ec%23U30b3%23U30fc%23U30c9-csLqT7uQ5g0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>376186</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Super%20Hero%20-%23U0280%23U1d07%23U1d20%23U1d07%23U0274%23U0262%23U1d07-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b9%23U30fc%23U30d1%23U30fc%23U30d2%23U30fc%23U30ed%23U30fc-EUErzvA5fuk.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>229568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Sweet%20Magic%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30b9%23U30a4%23U30fc%23U30c8%23U30de%23U30b8%23U30c3%23U30af-xWjnpLwfjLs.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>236984</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Taketori%20Overnight%20Sensation%20(English%20Cover)%23U3010Kuraiinu%20+%20JubyPhonic%23U3011%23U7af9%23U53d6%23U30aa%23U30fc%23U30d0%23U30fc%23U30ca%23U30a4%23U30c8%23U30bb%23U30f3%23U30bb%23U30fc%23U30b7%23U30e7%23U30f3-D5nw7PZPGZg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>252632</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Tell%20Your%20World%20(English%20Cover)%23U3010JubyPhonic%23U3011-sH16drUAcco.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>273105</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Ten%20Faced%20-%23U1d0a%23U1d00%23U1d22%23U1d22%20%23U1d00%23U0280%23U0280%23U1d00%23U0274%23U0262%23U1d07-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5341%23U9762%23U76f8-xctoBF8w9S8.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>238497</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Terror(ism)%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30c6%23U30ed%23U30eb-aeI71kzesUc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>236912</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/The%20Worst%20Carnival%20(English%20Cover)%23U3010JubyPhonic%23U3011%20%23U6700%23U60aa%23U306e%23U30ab%23U30fc%23U30cb%23U30d0%23U30eb-uECaE2UhuGA.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>237224</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Tokyo%20Ghetto%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30c8%23U30fc%23U30ad%23U30e7%23U30fc%23U30b2%23U30c3%23U30c8%23U30fc-lw9Gf_IBrN4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>272889</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Tokyo%20Teddy%20Bear%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U6771%23U4eac%23U30c6%23U30c7%23U30a3%23U30d9%23U30a2-MW2lEOvFrBE.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>199115</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Toluthin%20Antenna%20(English%20Cover)%23U3010JubyPhonic%23U3011lll%23U30c8%23U30a5%23U30eb%23U30c6%23U30a3%23U30f3%23U30a2%23U30f3%23U30c6%23U30calll-SMKkwp5c15E.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>235688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Toumei%20Answer%20%5BShort%20Piano%20Outtake%5D%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U900f%23U660e%23U30a2%23U30f3%23U30b5%23U30fc-1GQ0KHL_Xlc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>183273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Trick%20and%20Treat%20%5BReborn!%20Ver%5D%20(English%20Cover)%23U3010JubyPhonic%23U3011-SwMN-pEBVw8.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>235294</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/%23U22b9%20Happy%20Weeb%20%23U22b9%20Nightcore%20Mix%20_%20HALF%20HOUR%23U3010JubyPhonic%23U3011-7iJABg4JlD0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>1681914</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/%23U30ae%23U30a2%23U30ca%23U5236%23U4f5c%20%23U300cDeja%20Vu%23U300d%20JubyPhonic%20%23U00d7%20rachie-qUiRhJgD76E.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>310546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/%23U2191The%20Game%20of%20Life%23U2193%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U4eba%23U751f%23U30b2%23U30fc%23U30e0-UbHY7vBAp4o.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>222650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/%23U3010English%20Cover%23U3011%20Invisible%20_%20%23U30a4%23U30f3%23U30d3%23U30b8%23U30d6%23U30eb%20%23U3010%23U273fham%20x%20JubyPhonic%23U3011-xAw9cQ3lPuU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>218366</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/%23U3010%23U306a%23U3064%23U3046%23U305f2015%23U3011%20Dancing%23U2606Samurai%20%23U3092%20%23U6b4c%23U3063%23U3066%23U307f%23U305f%23U3010JubyPhonic%23U3011(English%20Cover)-CQzYfdx9qgc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>186200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Umiyuri%20Kaiteitan%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30a6%23U30df%23U30e6%23U30ea%23U6d77%23U5e95%23U8b5a-jLyX-WGwiZo.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>259592</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Venom%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30d9%23U30ce%23U30e0-1JG93nbIL8Y.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>202326</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Weekender%20Girl%20(English%20Cover)%23U3010JubyPhonic%23U3011-B1DYKodOLy8.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>236528</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/WILDFIRE!!%20(Cover)%23U3010JubyPhonic%23U3011-cRgPj35FZS4.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>252692</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Wildfire%20%23Uff38%20Clarity%20(MASHUP)%23U3010JubyPhonic%23U3011-UeIeUwlrFhM.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>307233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Witch%20Hunt%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U9b54%23U5973-IJBH70Lntro.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>290480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/World%20Is%20Mine%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30ef%23U30fc%23U30eb%23U30c9%23U30a4%23U30ba%23U30de%23U30a4%23U30f3-10u0VZHDiq0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>261130</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/World&#39;s%20End%20Dancehall%20(English%20Cover)%23U3010%23U273fham%20+%20JubyPhonic%23U3011-EPFgB_KS-wg.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>217583</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/WOZWALD%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30f2%23U30ba%23U30ef%23U30eb%23U30c9-FGwxeke-wSI.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>309898</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/YELLOW%20(English%20Cover)%23U3010JubyPhonic%23U3011-AVV73Sv0nBw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>200696</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yobanashi%20Deceive%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U591c%23U5484%23U30c7%23U30a3%23U30bb%23U30a4%23U30d6-JyiAoAB89To.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>202432</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yonjuunana%20(English%20+%20Acoustic%20Cover)%23U3010JubyPhonic%23U3011%23U30e8%23U30f3%23U30b8%23U30e5%23U30a6%23U30ca%23U30ca-vY73eE8q-ss.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>293481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yonjuunana%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U30e8%23U30f3%23U30b8%23U30e5%23U30a6%23U30ca%23U30ca-IFsV8_2Mzsc.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>290311</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yoru%20Wo%20Koero%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U591c%23U3092%23U8d85%23U3048%23U308d-B_kvF3Mib4c.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>219608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yubikiri%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U6307%23U5207%23U308a-RWlefpzkRho.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>184808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yunosuke%20-%20Dreams%20(feat.%20JubyPhonic)-NwvuXcpRFUs.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>214303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yuudachi%20no%20Ribbon%20(English%20Cover)%23U3010JubyPhonic%20ft.%20dj-Jo%23U3011%20%23U5915%23U7acb%23U306e%23U308a%23U307c%23U3093-mXjD7dLmQsw.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>230774</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yuudachi%20no%20Ribbon%20-Piano%20Ver-%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5915%23U7acb%23U306e%23U308a%23U307c%23U3093-Hvgou9rw0XU.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>299626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Yuukei%20Yesterday%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U5915%23U666f%23U30a4%23U30a8%23U30b9%23U30bf%23U30c7%23U30a4-E3oT5s7fKbY.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>235831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/JubyPhonic/Zange%20Mairi%20(English%20Cover)%23U3010JubyPhonic%23U3011%23U61fa%23U6094%23U53c2%23U308a-AKTGYLGWRR0.mp3</location>
+			<creator>JubyPhonic</creator>
+			<duration>223136</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+		<vlc:item tid="166"/>
+		<vlc:item tid="167"/>
+		<vlc:item tid="168"/>
+		<vlc:item tid="169"/>
+		<vlc:item tid="170"/>
+		<vlc:item tid="171"/>
+		<vlc:item tid="172"/>
+		<vlc:item tid="173"/>
+		<vlc:item tid="174"/>
+		<vlc:item tid="175"/>
+		<vlc:item tid="176"/>
+		<vlc:item tid="177"/>
+		<vlc:item tid="178"/>
+		<vlc:item tid="179"/>
+		<vlc:item tid="180"/>
+		<vlc:item tid="181"/>
+		<vlc:item tid="182"/>
+		<vlc:item tid="183"/>
+		<vlc:item tid="184"/>
+		<vlc:item tid="185"/>
+		<vlc:item tid="186"/>
+		<vlc:item tid="187"/>
+		<vlc:item tid="188"/>
+		<vlc:item tid="189"/>
+		<vlc:item tid="190"/>
+	</extension>
+</playlist>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20As%20You%20Get%20High.mp3</location>
+			<title>As You Get High</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>7</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>274241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20B.I.T.M.mp3</location>
+			<title>B.I.T.M.</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>1</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>36840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20Firestorm.mp3</location>
+			<title>Firestorm</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>3</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>210189</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20Gimme%20Some%20Sweet.mp3</location>
+			<title>Gimme Some Sweet</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>10</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>266143</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20Mr.%20FEAR%20%20%5BOfficial%20Animated%20Music%20Video%5D.mp3</location>
+			<title>Mr. Fear</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>4</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>273849</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20No%20Honey.mp3</location>
+			<title>No Honey</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>9</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>244357</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20Stronger.mp3</location>
+			<title>Stronger</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>5</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>201176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20The%20Cave.mp3</location>
+			<title>The Cave</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>8</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>226019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20The%20Wolf%20%20%5BOfficial%20Animated%20Music%20Video%5D.mp3</location>
+			<title>The Wolf</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>2</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>191381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Siames/Bounce%20Into%20The%20Music/SIAM%C9S%20%20Used%20To%20Be.mp3</location>
+			<title>Used to Be</title>
+			<creator>SIAMÉS</creator>
+			<album>Bounce Into The Music</album>
+			<trackNum>6</trackNum>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/SIAM%C3%89S/Bounce%20Into%20The%20Music/art.jpg</image>
+			<duration>228788</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+	</extension>
+</playlist>

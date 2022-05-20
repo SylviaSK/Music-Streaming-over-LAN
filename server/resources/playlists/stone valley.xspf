@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/emerant%20nox%20-%20stone%20valley.mp3</location>
+			<title>emerant nox</title>
+			<creator>Quinne Larsen</creator>
+			<album>stone valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/stone%20valley/art.jpg</image>
+			<duration>125056</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/stone%20valley%20-%20prologue.mp3</location>
+			<title>prologue</title>
+			<creator>Quinne Larsen</creator>
+			<album>stone valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/stone%20valley/art.jpg</image>
+			<duration>115051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/pi/Music/Quinne%20Larsen/traveler%20(ep)%20-%20stone%20valley.mp3</location>
+			<title>traveler (ep) - stone valley</title>
+			<creator>Quinne Larsen</creator>
+			<album>stone valley</album>
+			<annotation>Visit https://eelvalley.bandcamp.com</annotation>
+			<image>file:///home/pi/.cache/vlc/art/artistalbum/Quinne%20Larsen/stone%20valley/art.jpg</image>
+			<duration>640016</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

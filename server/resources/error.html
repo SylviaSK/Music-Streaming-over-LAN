@@ -1,0 +1,23 @@
+<head>
+	<title>Error response</title>
+	<link rel="stylesheet" type="text/css" href="/resources/style.css">
+</head>
+<body>
+	<h1>Hey! Uh, surprised you bothered to find this!</h1>
+	<h2>It's just my little error page</h2>
+	<h3 id="divider">-----</h3>
+	<p>Error code %(code)d.
+	<p>Message: %(message)s.
+	<p>Error code explanation: %(code)s = %(explain)s.
+</body>
+<footer>
+	<script>
+	let numdashes = screen.width/16;
+	let dashes = ""
+	for (let i = 0; i < numdashes; i++) {
+		dashes += "-"
+	}
+	document.getElementById("divider").innerHTML = dashes;
+</script>
+</footer>
+

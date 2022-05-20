@@ -1,0 +1,108 @@
+/* Import Source Code Pro (font) from google*/
+@import "https://fonts.googleapis.com/css?family=Lato:900,700,700i%7CSource+Code+Pro:700,600,900,400%22";
+
+/* set body and text settings */
+html, body {background-color: #ffcddc; min-height: 100%; margin: 0}
+body {background-image: linear-gradient(#ff9aba,#ffcddc);}
+h1	{color: white; font-family: 'Source Code Pro', monospace;}
+h2	{color: white; font-family: 'Source Code Pro', monospace;}
+h3  {color: white; font-family: 'Source Code Pro', monospace;}
+h4	{color: white; font-family: 'Source Code Pro', monospace;}
+h5	{color: white; font-family: 'Source Code Pro', monospace;}
+h6	{color: white; font-family: 'Source Code Pro', monospace;}
+h7	{color: white; font-family: 'Source Code Pro', monospace;}
+p   {color: white; font-family: 'Source Code Pro', monospace;}
+
+/* constants */
+:root {
+  --playlist-width: 50;
+  --playlist-height:50;
+}
+
+/* image and body containers */
+.xflipped{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.centertext {
+  text-align:center;
+}
+.singlePlaylist{
+  margin:20;
+}
+
+/*playlist hover functionality*/
+
+.playlist-container {
+  position: relative;
+  width: 200px;
+  height:200px;
+  margin:18px 10px;
+}
+
+.playlist-image {
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+
+.playlist-image img {
+  width: 100%;
+  height: 100%;
+  }
+
+.playlist-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  width: 200px;
+  opacity: 0;
+  transition: .5s ease;
+  background-image: linear-gradient(#6797ff,#9abaff);
+}
+
+.playlist-container:hover .playlist-overlay {
+  opacity: .75;
+}
+
+.playlist-container:hover .playlist-text {
+  opacity: 1;
+}
+
+.playlist-text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  transition: .5s ease;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.flexWrap {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.flexHeader{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.smallBreak{
+  display: block;
+  margin-bottom: -.5em;
+}
+
