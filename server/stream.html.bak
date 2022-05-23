@@ -60,6 +60,13 @@
           <div class="playlist-text">rough demos summer '19</div>
         </div>
       </a>
+      <a href="/playlist.ruins">
+        <div class="playlist-container">
+          <img src="/resources/playlists/ruins.png" alt="ruins playlist image" class="playlist-image">
+          <div class="playlist-overlay"></div>
+          <div class="playlist-text">ruins</div>
+        </div>
+      </a>
       <a href="/playlist.stone valley">
         <div class="playlist-container">
           <img src="/resources/playlists/stone valley.png" alt="stone valley playlist image" class="playlist-image">
