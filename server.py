@@ -1,11 +1,12 @@
 # server.py
 # Note: This requires xdotool and vlc installed
+from config_importer import grab_config
 import http.server # Our http server handler for http requests
 import socketserver # Establish the TCP Socket connections
-import subprocess
+import subprocess # run commands in commandprompt
 import copy #reduce to j deepcopy if i remember
-import sys
-import cgi
+import sys #only used in eprint, if that ever gets removed kill this
+import cgi #handle POST functionality
 from collections import namedtuple
 
 #dummy class to enable .kill() to be called on currentStream before it
@@ -13,13 +14,15 @@ from collections import namedtuple
 class killBox():
     def kill():
         return
+    
 ## Initialize from config
-#with open config
-debug = True
-PORT = 8000
-errorMessagePage = "server/resources/error.html"
-#use cvlc to remove interface, vlc to keep
-templatePlaylistArgs = ['vlc', 'server/resources/playlists/', '--sout=#transcode{vcodec=none,acodec=mp3,ab=128,channels=2,samplerate=44100,scodec=none}:duplicate{dst=http{dst=:8080/stream.mp3},dst=display}', '--sout-keep', '-L']
+config = grab_config("server.config")
+
+templatePlaylistArgs = ['vlc', 'server/resources/playlists/', '--sout=#transcode{vcodec=none,acodec=mp3,ab=128,channels=2,samplerate=44100,scodec=none}:duplicate{dst=http{dst=:'+ str(config["streamport"]) +'/stream.mp3},dst=display}', '--sout-keep', '-L']
+if not config["vlcinterface"]:
+    templatePlaylistArgs[0] = "cvlc"
+print(templatePlaylistArgs)
+    
 nextSongCommand = ['xdotool', 'key', 'alt+l', 'key', 'x']
 prevSongCommand = ['xdotool', 'key', 'alt+l', 'key', 'v']
 
@@ -28,43 +31,41 @@ NO_CONTENT = ResponseStatus(code=204, message="No Content")
 currentStream = killBox
 temporarySubprocess = killBox
 
-with open(errorMessagePage) as file:
+with open(config["errorpage"]) as file:
     errorMessagePage = file.read()
-
 
         
 def playPlaylist(playlist):
     global currentStream
     currentStream.kill()
-    temp = copy.deepcopy(templatePlaylistArgs)
-    temp[1] += playlist + ".xspf" #callingObject.path[10:].replace("%20", " ") 
-    print("Swapping to playlist", playlist)
-    currentStream = subprocess.Popen(temp)
+    command = copy.deepcopy(templatePlaylistArgs)
+    command[1] += playlist + ".xspf" 
+    eprint("Swapping to playlist", playlist)
+    currentStream = subprocess.Popen(command)
     
 def handleControls(controls):
-    if controls == "nextSong" :
+    if config["vlcinterface"]:
+        if controls == "nextSong":
             temporaryCommandlineCall(nextSongCommand)
             eprint("Skipping current Song")
-    elif controls == "prevSong":
-        temporaryCommandlineCall(prevSongCommand)
-        eprint("Going back to previous Song")
+        elif controls == "prevSong":
+            temporaryCommandlineCall(prevSongCommand)
+            eprint("Going back to previous Song")
 
 # creates a commandline call that will be killed when this function is called again.
-# TODO: aen improvement would involve making this spin off a new thread/child and just killing it as soon as it completes
+# TODO: an improvement would involve making this spin off a new thread/child and just killing it as soon as it completes
+    #maybe colapse subprocess handling into a class?
 def temporaryCommandlineCall(command):
     global temporarySubprocess
     temporarySubprocess.kill()
     temporarySubprocess = subprocess.Popen(command)
     
-
-
 class httpRequestHandler(http.server.SimpleHTTPRequestHandler):
-            
     def do_GET(self):
-        if self.path == "/":
-            self.path = "/stream.html"
+        self.path = config["serverfolder"] + self.path
+        if self.path == config["serverfolder"] + "/":
+            self.path = config["streampage"]
             
-        self.path = "/server" + self.path
         return http.server.SimpleHTTPRequestHandler.do_GET(self)
  
     def do_POST(self):
@@ -75,28 +76,17 @@ class httpRequestHandler(http.server.SimpleHTTPRequestHandler):
             environ={'REQUEST_METHOD': 'POST', 'CONTENT_TYPE':self.headers['Content-Type']}
         )
         
-        # pull up the playlist
-        playlistName = form.getvalue("playlistName")
-        print(playlistName)
-        if playlistName != None:
-            playPlaylist(playlistName)
-            eprint("Playing:", playlistName)
-            self.send_response(NO_CONTENT.code, NO_CONTENT.message)
-            self.end_headers()
-            return
+        # handle forms
+        formValues = [["playlistName", playPlaylist], ["controls", handleControls]]
+        for pair in formValues:
+            temp = form.getvalue(pair[0])
+            if temp != None:
+                pair[1](temp)
+        self.send_response(NO_CONTENT.code, NO_CONTENT.message)
+        self.end_headers()
+        return
         
-        # song controls
-        controls = form.getvalue("controls")
-        print(controls)
-        if controls != None:
-            handleControls(controls)
-            self.send_response(NO_CONTENT.code, NO_CONTENT.message)
-            self.end_headers()
-            return
-        
-    def send_error(self, code, message=None):
-        handleButtonLinks(self)
-            
+    def send_error(self, code, message=None):            
         self.error_message_format = errorMessagePage
         http.server.SimpleHTTPRequestHandler.send_error(self, code, message)
 
@@ -114,15 +104,13 @@ class httpRequestHandler(http.server.SimpleHTTPRequestHandler):
 
 
 def eprint(*args, **kwargs):
-    if debug:
+    if config["debug"]:
         print(*args, file=sys.stderr, **kwargs)
 
 
 if __name__ == "__main__":
-    handler = httpRequestHandler
-     
-    with socketserver.TCPServer(("", PORT), handler) as httpd:
-        print("Http Server Serving at port", PORT)
+    with socketserver.TCPServer((config["ip"], config["port"]), httpRequestHandler) as httpd:
+        print("Http Server Serving at port", config["port"])
         httpd.serve_forever()
     
 
