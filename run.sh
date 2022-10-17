@@ -1,0 +1,1 @@
+x-terminal-emulator --working-directory=Public/MP3_Streaming_Repo --command="python server.py"

@@ -7,7 +7,9 @@ import subprocess # run commands in commandprompt
 import copy #reduce to j deepcopy if i remember
 import sys #only used in eprint, if that ever gets removed kill this
 import cgi #handle POST functionality
-from collections import namedtuple
+from collections import namedtuple #consider removing
+import download_playlist
+from time import sleep
 
 #dummy class to enable .kill() to be called on currentStream before it
 #gets assigned to a real subprocess
@@ -18,10 +20,10 @@ class killBox():
 ## Initialize from config
 config = grab_config("server.config")
 
+
 templatePlaylistArgs = ['vlc', 'server/resources/playlists/', '--sout=#transcode{vcodec=none,acodec=mp3,ab=128,channels=2,samplerate=44100,scodec=none}:duplicate{dst=http{dst=:'+ str(config["streamport"]) +'/stream.mp3},dst=display}', '--sout-keep', '-L']
 if not config["vlcinterface"]:
     templatePlaylistArgs[0] = "cvlc"
-print(templatePlaylistArgs)
     
 nextSongCommand = ['xdotool', 'key', 'alt+l', 'key', 'x']
 prevSongCommand = ['xdotool', 'key', 'alt+l', 'key', 'v']
@@ -30,20 +32,27 @@ ResponseStatus = namedtuple("HTTPStatus", ["code", "message"])
 NO_CONTENT = ResponseStatus(code=204, message="No Content")
 currentStream = killBox
 temporarySubprocess = killBox
+addPlaylistSubprocessess = killBox
+maxSocketBindAttempts = 60
 
 with open(config["errorpage"]) as file:
     errorMessagePage = file.read()
 
         
-def playPlaylist(playlist):
+def playPlaylist(form):
+    playlist = form.getvalue("PLAYLISTNAME")
+    
     global currentStream
     currentStream.kill()
     command = copy.deepcopy(templatePlaylistArgs)
     command[1] += playlist + ".xspf" 
     eprint("Swapping to playlist", playlist)
     currentStream = subprocess.Popen(command)
+  
     
-def handleControls(controls):
+def handleControls(form):
+    controls = form.getvalue("CONTROLS")
+    
     if config["vlcinterface"]:
         if controls == "nextSong":
             temporaryCommandlineCall(nextSongCommand)
@@ -51,14 +60,29 @@ def handleControls(controls):
         elif controls == "prevSong":
             temporaryCommandlineCall(prevSongCommand)
             eprint("Going back to previous Song")
+  
+            
+def createPlaylist(form):
+    playlistTitle = form.getvalue("playlistName")
+    playlistURL = form.getvalue("playlistURL")
+    imageURL = form.getvalue("imageURL")
+    
+    print(f"playlistTitle: {playlistTitle}")
+    print(f"playlistURL: {playlistTitle}")
+    print(f"imageURL: {imageURL}")
+    
+    
+    download_playlist.update_playlist( playlistTitle, playlistURL, imageURL) 
+    
 
 # creates a commandline call that will be killed when this function is called again.
 # TODO: an improvement would involve making this spin off a new thread/child and just killing it as soon as it completes
     #maybe colapse subprocess handling into a class?
-def temporaryCommandlineCall(command):
+def temporaryCommandlineCall(command, container = temporarySubprocess):
+    global addPlaylistSubprocessess
     global temporarySubprocess
-    temporarySubprocess.kill()
-    temporarySubprocess = subprocess.Popen(command)
+    container.kill()
+    container = subprocess.Popen(command)
     
 class httpRequestHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
@@ -77,11 +101,9 @@ class httpRequestHandler(http.server.SimpleHTTPRequestHandler):
         )
         
         # handle forms
-        formValues = [["playlistName", playPlaylist], ["controls", handleControls]]
-        for pair in formValues:
-            temp = form.getvalue(pair[0])
-            if temp != None:
-                pair[1](temp)
+        for key, function in formValues.items():
+            if form.getvalue(key)!= None:
+                function(form)
         self.send_response(NO_CONTENT.code, NO_CONTENT.message)
         self.end_headers()
         return
@@ -109,8 +131,25 @@ def eprint(*args, **kwargs):
 
 
 if __name__ == "__main__":
-    with socketserver.TCPServer((config["ip"], config["port"]), httpRequestHandler) as httpd:
-        print("Http Server Serving at port", config["port"])
-        httpd.serve_forever()
+    print("Starting server...")
+    global formValues
+    socketBindCounter = 0
+    formValues = {"PLAYLISTNAME": playPlaylist, "CONTROLS": handleControls, "ADDPLAYLIST": createPlaylist}
+    while True:
+        try:
+            with socketserver.TCPServer((config["ip"], config["port"]), httpRequestHandler) as httpd:
+                print("Http Server Serving at port", config["port"])
+                httpd.serve_forever()
+        except Exception as error:
+            print(error)
+            sleep(.1)
+            if socketBindCounter >= maxSocketBindAttempts:
+                print("Socket still bound, ending process")
+                sleep(5)
+                break
+            else:
+                socketBindCounter += 1
+            continue
+        
     
 
