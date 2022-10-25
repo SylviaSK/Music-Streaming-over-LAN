@@ -117,7 +117,9 @@ class PlaylistBuilder():
 		replacementStrings = {
 		":": " -",
 		"\"": "'",
-		"/":"_"
+		"//": "_",
+		"/":"_",
+		"?":""
 		}
 		for title in self.logger.titles:
 			for original, replacement in replacementStrings.items(): 

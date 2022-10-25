@@ -5,6 +5,8 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
+    <script src = "https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src = "/resources/event.js"></script>
   </head>
   <body>
     <div class="flexHeader">
@@ -42,8 +44,17 @@
     
     
     <div class ="flexWrap">
+      <!-- Artist: Quinne Larsen -->
+      <div class= "artist-wrapper" data-artist="Quinne Larsen">
+        <div class="artist-container">
+          <img src="/resources/playlists/artist-Quinne Larsen.png" alt="Quinne Larsen artist image" class="playlist-image", align=left>
+          <div class="artist-overlay"></div>
+          <div class="artist-text">Quinne Larsen</div>
+        </div>
+      </div>
+      
       <!-- Playlist: Quinne Larsen -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Quinne Larsen" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="Quinne Larsen" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -54,7 +65,7 @@
       </div>
       
       <!-- Playlist: eel valley -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Quinne Larsen" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="eel valley" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -65,7 +76,7 @@
       </div>
       
       <!-- Playlist: rough demos summer '19 -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Quinne Larsen" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="rough demos summer '19" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -76,7 +87,7 @@
       </div>
       
       <!-- Playlist: ruins -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Quinne Larsen" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="ruins" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -87,7 +98,7 @@
       </div>
       
       <!-- Playlist: stone valley -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Quinne Larsen" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="stone valley" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -97,8 +108,18 @@
           </div>
       </div>
       
+      
+      <!-- Artist: Toby Fox -->
+      <div class= "artist-wrapper" data-artist="Toby Fox">
+        <div class="artist-container">
+          <img src="/resources/playlists/artist-Toby Fox.png" alt="Toby Fox artist image" class="playlist-image", align=left>
+          <div class="artist-overlay"></div>
+          <div class="artist-text">Toby Fox</div>
+        </div>
+      </div>
+      
       <!-- Playlist: Undertale -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Toby Fox" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="Undertale" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -109,7 +130,7 @@
       </div>
       
       <!-- Playlist: Deltarune Chapter 1 -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Toby Fox" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="Deltarune Chapter 1" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -120,7 +141,7 @@
       </div>
       
       <!-- Playlist: Deltarune Chapter 2 -->
-      <div class="playlist-wrapper">
+      <div class="playlist-wrapper" data-artist="Toby Fox" hidden>
         <form action="" method="post"/>
         <button name="PLAYLISTNAME" value="Deltarune Chapter 2" class="playlist-button"/>
           <div class="playlist-container"\>
@@ -129,6 +150,61 @@
             <div class="playlist-text">Deltarune Chapter 2</div>
           </div>
       </div>
+      
+      
+      <!-- Artist: Neil Cicierega -->
+      <div class= "artist-wrapper" data-artist="Neil Cicierega">
+        <div class="artist-container">
+          <img src="/resources/playlists/artist-Neil Cicierega.png" alt="Neil Cicierega artist image" class="playlist-image", align=left>
+          <div class="artist-overlay"></div>
+          <div class="artist-text">Neil Cicierega</div>
+        </div>
+      </div>
+      
+      <!-- Playlist: Spirit Phone -->
+      <div class="playlist-wrapper" data-artist="Neil Cicierega" hidden>
+        <form action="" method="post"/>
+        <button name="PLAYLISTNAME" value="Spirit Phone" class="playlist-button"/>
+          <div class="playlist-container"\>
+            <img src="/resources/playlists/Spirit Phone.png" alt="Spirit Phone playlist image" class="playlist-image", align=left>
+            <div class="playlist-overlay"></div>
+            <div class="playlist-text">Spirit Phone</div>
+          </div>
+      </div>
+      
+      <!-- Playlist: I Am Become Christmas -->
+      <div class="playlist-wrapper" data-artist="Neil Cicierega" hidden>
+        <form action="" method="post"/>
+        <button name="PLAYLISTNAME" value="I Am Become Christmas" class="playlist-button"/>
+          <div class="playlist-container"\>
+            <img src="/resources/playlists/I Am Become Christmas.png" alt="I Am Become Christmas playlist image" class="playlist-image", align=left>
+            <div class="playlist-overlay"></div>
+            <div class="playlist-text">I Am Become Christmas</div>
+          </div>
+      </div>
+      
+      <!-- Playlist: View-Monster -->
+      <div class="playlist-wrapper" data-artist="Neil Cicierega" hidden>
+        <form action="" method="post"/>
+        <button name="PLAYLISTNAME" value="View-Monster" class="playlist-button"/>
+          <div class="playlist-container"\>
+            <img src="/resources/playlists/View-Monster.png" alt="View-Monster playlist image" class="playlist-image", align=left>
+            <div class="playlist-overlay"></div>
+            <div class="playlist-text">View-Monster</div>
+          </div>
+      </div>
+      
+      <!-- Playlist: Damn Skippy -->
+      <div class="playlist-wrapper" data-artist="Neil Cicierega" hidden>
+        <form action="" method="post"/>
+        <button name="PLAYLISTNAME" value="Damn Skippy" class="playlist-button"/>
+          <div class="playlist-container"\>
+            <img src="/resources/playlists/Damn Skippy.png" alt="Damn Skippy playlist image" class="playlist-image", align=left>
+            <div class="playlist-overlay"></div>
+            <div class="playlist-text">Damn Skippy</div>
+          </div>
+      </div>
+      
       
       <!-- Playlist: DeReconstruct -->
       <div class="playlist-wrapper">
@@ -173,50 +249,7 @@
             <div class="playlist-text">Ken Ashcorp</div>
           </div>
       </div>
-      
-      <!-- Playlist: Spirit Phone -->
-      <div class="playlist-wrapper">
-        <form action="" method="post"/>
-        <button name="PLAYLISTNAME" value="Spirit Phone" class="playlist-button"/>
-          <div class="playlist-container"\>
-            <img src="/resources/playlists/Spirit Phone.png" alt="Spirit Phone playlist image" class="playlist-image", align=left>
-            <div class="playlist-overlay"></div>
-            <div class="playlist-text">Spirit Phone</div>
-          </div>
-      </div>
-      <!-- Playlist: I Am Become Christmas -->
-      <div class="playlist-wrapper">
-        <form action="" method="post"/>
-        <button name="PLAYLISTNAME" value="I Am Become Christmas" class="playlist-button"/>
-          <div class="playlist-container"\>
-            <img src="/resources/playlists/I Am Become Christmas.png" alt="I Am Become Christmas playlist image" class="playlist-image", align=left>
-            <div class="playlist-overlay"></div>
-            <div class="playlist-text">I Am Become Christmas</div>
-          </div>
-      </div>
-      
-      <!-- Playlist: View-Monster -->
-      <div class="playlist-wrapper">
-        <form action="" method="post"/>
-        <button name="PLAYLISTNAME" value="View-Monster" class="playlist-button"/>
-          <div class="playlist-container"\>
-            <img src="/resources/playlists/View-Monster.png" alt="View-Monster playlist image" class="playlist-image", align=left>
-            <div class="playlist-overlay"></div>
-            <div class="playlist-text">View-Monster</div>
-          </div>
-      </div>
-      
-      <!-- Playlist: Damn Skippy -->
-      <div class="playlist-wrapper">
-        <form action="" method="post"/>
-        <button name="PLAYLISTNAME" value="Damn Skippy" class="playlist-button"/>
-          <div class="playlist-container"\>
-            <img src="/resources/playlists/Damn Skippy.png" alt="Damn Skippy playlist image" class="playlist-image", align=left>
-            <div class="playlist-overlay"></div>
-            <div class="playlist-text">Damn Skippy</div>
-          </div>
-      </div>
-      
+
       <!-- Playlist: achievement -->
       <div class="playlist-wrapper">
         <form action="" method="post"/>
@@ -237,6 +270,17 @@
             <div class="playlist-overlay"></div>
             <div class="playlist-text">FFXIV</div>
           </div>
+      </div>
+      
+      <!-- Playlist: girl in red -->
+      <div class="playlist-wrapper">
+      	<form action="" method="post"/>
+      	<button name="PLAYLISTNAME" value="girl in red" class="playlist-button"/>
+      		<div class="playlist-container"\>
+      			<img src="/resources/playlists/girl in red.png" alt="girl in red playlist image" class="playlist-image", align=left>
+      			<div class="playlist-overlay"></div>
+      			<div class="playlist-text">girl in red</div>
+      		</div>
       </div>
       
       <!--PYTHON SCRIPT MARKER-->
